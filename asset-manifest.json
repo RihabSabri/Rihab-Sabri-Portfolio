@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Rihab-Sabri-Portfolio/static/css/main.04332ad3.css",
+    "main.js": "/Rihab-Sabri-Portfolio/static/js/main.e91a2ede.js",
+    "static/media/video.mp4": "/Rihab-Sabri-Portfolio/static/media/video.33cd9328266a32810aad.mp4",
+    "static/media/CV_Rihab_Sabri.pdf": "/Rihab-Sabri-Portfolio/static/media/CV_Rihab_Sabri.d623f1bf9377c1c19c3e.pdf",
+    "static/media/avatar.png": "/Rihab-Sabri-Portfolio/static/media/avatar.08846a3f8c8bc2029ca2.png",
+    "static/media/blob.svg": "/Rihab-Sabri-Portfolio/static/media/blob.d2dd3d2ed7ecde34173c2ec6596560e5.svg",
+    "static/media/svg1.svg": "/Rihab-Sabri-Portfolio/static/media/svg1.c9ba8c577dd2caa331c3fa7c9842fccc.svg",
+    "index.html": "/Rihab-Sabri-Portfolio/index.html",
+    "main.04332ad3.css.map": "/Rihab-Sabri-Portfolio/static/css/main.04332ad3.css.map",
+    "main.e91a2ede.js.map": "/Rihab-Sabri-Portfolio/static/js/main.e91a2ede.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.04332ad3.css",
+    "static/js/main.e91a2ede.js"
+  ]
+}
